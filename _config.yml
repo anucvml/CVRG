@@ -1,0 +1,8 @@
+theme: jekyll-theme-slate
+#theme: jekyll-theme-minimal
+title: |
+  Computer Vision Reading Groups and Tutorials, ANU-CVML<br/>
+#description: 
+#logo: [Location of the logo]
+#show_downloads: "false"
+google_analytics: [UA-87133866-2]
