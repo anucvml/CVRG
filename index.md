@@ -19,8 +19,8 @@ This tutorial covers an introduction to generative models, deep autoregressive m
     <div class="people-name text-center">
       <a href="https://fatemeh-slh.github.io/" target="_blank">Fatemeh Saleh</a><br>
         Session 1: Introduction to Generative Models, Deep Autoregressive Models<br>
-      <button class="button button4"><a href="https://drive.google.com/file/d/1UR6SicwRVpJNulR8HjeB4MzocyJ0_q8O/view?usp=sharing">Slides</a></button>
-      <button class="button button4"><a href="https://drive.google.com/file/d/1Iw-7Sjx4jgEh4BTo0imZr3kmcZvpx8Fp/view?usp=sharing">Video</a></button>
+      <button class="button button4"><a href="https://drive.google.com/file/d/1Z-qGr2h4qzeOjBhC8RpC73AcZ2QsD65I/view?usp=sharing">Slides</a></button>
+      <button class="button button4"><a href="https://drive.google.com/file/d/1fHNyGIHI1eJU95nhf7SEzq4OCxyMc_5_/view?usp=sharing">Video</a></button>
     </div>
    </div>
    
