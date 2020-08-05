@@ -44,7 +44,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
       <a href="https://sites.google.com/view/xinyus-homepage/Home" target="_blank">Xin Yu</a><br>
       Session 3: Generative Adversarial Networks, Energy-based Models<br>
       <button class="button button4">Slides</button>
-      <button class="button button4">Video</button>
+      <button class="button button4"><a href="https://drive.google.com/drive/folders/1hh640IG5lMBdFkA9Is2qqrxHxZ3PSFCh?usp=sharing">Video</a></button>
     </div>
   </div>
 </div>
