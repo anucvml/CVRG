@@ -62,7 +62,7 @@ This tutorial covers the important concepts in 3D vision including dense matchin
     <div class="people-name text-center">
       <a href="https://www.roboticvision.org/rv_person/yiran-zhong/" target="_blank">Yiran Zhong</a><br>
         Session 1,2: An overview of deep learning on dense matching<br>
-      <button class="button button4"><a href="">Slides</a></button>
+      <button class="button button4"><a href="https://drive.google.com/file/d/14L7-NogJZJUY_knr8QWCz1NQnYoke_nm/view?usp=sharing">Slides</a></button>
       <button class="button button4"><a href="">Video</a></button>
     </div>
    </div>
