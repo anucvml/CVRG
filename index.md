@@ -51,7 +51,7 @@ This tutorial covers an introduction to generative models, deep autoregressive m
 
 ---
 
-### Tutorial 1: 3D Vision
+### Tutorial 2: 3D Vision
 This tutorial covers the important concepts in 3D vision including dense matching, photometric 3D reconstruction, and an overview of deep learning on 3D point clouds. This is a four-session tutorial provided by Yiran Zhong, Ziang Cheng, and Itzik Ben-Shabat.
 
 <div class="row" align="center">
