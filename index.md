@@ -49,8 +49,47 @@ This tutorial covers an introduction to generative models, deep autoregressive m
   </div>
 </div>
 
-### Additional Notes:
-- Session 1: Introduction to Generative Models, Deep Autoregressive Models *(10 July 2020)*
-- Session 2: Variational Autoencoders, Normalizing Flows *(17 July 2020)*
-- Session 3: Generative Adversarial Networks, Energy-based Models *(24 July 2020)*
-- Zoom Meeting: Join the meeting via [Zoom](https://anu.zoom.us/j/6449388968).
+---
+
+### Tutorial 1: 3D Vision
+This tutorial covers the important concepts in 3D vision including dense matching, photometric 3D reconstruction, and an overview of deep learning on 3D point clouds. This is a four-session tutorial provided by Yiran Zhong, Ziang Cheng, and Itzik Ben-Shabat.
+
+<div class="row" align="center">
+  <div class="col-sm-4">
+    <a href="https://www.roboticvision.org/rv_person/yiran-zhong/" target="_blank">
+      <img class="people-pic" src="assets/Yiran-Zhong-225x275-c-default.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://www.roboticvision.org/rv_person/yiran-zhong/" target="_blank">Yiran Zhong</a><br>
+        Session 1,2: An overview of deep learning on dense matching<br>
+      <button class="button button4"><a href="">Slides</a></button>
+      <button class="button button4"><a href="">Video</a></button>
+    </div>
+   </div>
+   
+   <div class="col-sm-4">
+    <a href="https://www.roboticvision.org/rv_person/ziang-cheng/" target="_blank">
+      <img class="people-pic" src="assets/Ziang-Cheng_Profile-Picture-1-225x275-c-default.png">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://www.roboticvision.org/rv_person/ziang-cheng/" target="_blank">Ziang Cheng</a><br>
+      Session 3: An overview of photometric 3D reconstruction<br>
+      <button class="button button4"><a href="">Slides</a></button>
+      <button class="button button4"><a href="">Video</a></button>
+    </div>
+  </div>
+  
+  <div class="col-sm-4">
+    <a href="http://www.itzikbs.com/" target="_blank">
+      <img class="people-pic" src="assets/Itzik_Portrait_500.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="http://www.itzikbs.com/" target="_blank">Itzik Ben-Shabat</a><br>
+      Session 4: An overview of deep learning on 3D point clouds<br>
+      <button class="button button4"><a href="">Slides</a></button>
+      <button class="button button4"><a href="">Video</a></button>
+    </div>
+  </div>
+</div>
+
+
