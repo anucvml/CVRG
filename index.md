@@ -100,7 +100,7 @@ In this tutorial we will cover the general setup and basic ideas of reinforcemen
 <div class="row" align="center">
   <div class="col-sm-4">
     <a href="https://www.roboticvision.org/rv_person/chamin-hewa-koneputugodage/" target="_blank">
-      <img class="people-pic" src="assets/Chamin.jpg">
+      <img class="people-pic" src="https://raw.githubusercontent.com/anucvml/cvrg/master/assets/Chamin.jpg">
     </a>
     <div class="people-name text-center">
       <a href="https://www.roboticvision.org/rv_person/chamin-hewa-koneputugodage/" target="_blank">Chamin Hewa Koneputugodage</a><br>
@@ -112,7 +112,7 @@ In this tutorial we will cover the general setup and basic ideas of reinforcemen
    
    <div class="col-sm-4">
     <a href="https://1jsingh.github.io/" target="_blank">
-      <img class="people-pic" src="assets/Jaskirat.png">
+      <img class="people-pic" src="https://raw.githubusercontent.com/anucvml/cvrg/master/assets/Jaskirat.png">
     </a>
     <div class="people-name text-center">
       <a href="https://1jsingh.github.io/" target="_blank">Jaskirat Singh</a><br>
