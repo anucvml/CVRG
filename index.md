@@ -92,4 +92,33 @@ This tutorial covers the important concepts in 3D vision including dense matchin
   </div>
 </div>
 
+---
 
+### Tutorial 3: Reinforcement Learning
+In this tutorial we will cover the general setup and basic ideas of reinforcement learning. This is a two-session tutorial provided by Chamin Hewa Koneputugodage and Jaskirat Singh.
+
+<div class="row" align="center">
+  <div class="col-sm-4">
+    <a href="https://www.roboticvision.org/rv_person/chamin-hewa-koneputugodage/" target="_blank">
+      <img class="people-pic" src="assets/Chamin.jpg">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://www.roboticvision.org/rv_person/chamin-hewa-koneputugodage/" target="_blank">Chamin Hewa Koneputugodage</a><br>
+        Session 1: Introduction to Reinforcement Learning <br>
+      <button class="button button4"><a href="https://drive.google.com/file/d/1MDwjv90k5YBnpFUo77exuQHUqcOgY8Wo/view?usp=sharing">Slides</a></button>
+      <button class="button button4"><a href="">Video</a></button>
+    </div>
+   </div>
+   
+   <div class="col-sm-4">
+    <a href="https://1jsingh.github.io/" target="_blank">
+      <img class="people-pic" src="assets/Jaskirat.png">
+    </a>
+    <div class="people-name text-center">
+      <a href="https://1jsingh.github.io/" target="_blank">Jaskirat Singh</a><br>
+      Session 2: Introduction to Reinforcement Learning<br>
+      <button class="button button4"><a href="">Slides</a></button>
+      <button class="button button4"><a href="">Video</a></button>
+    </div>
+  </div>
+</div>
