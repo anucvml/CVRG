@@ -106,7 +106,7 @@ In this tutorial we will cover the general setup and basic ideas of reinforcemen
       <a href="https://www.roboticvision.org/rv_person/chamin-hewa-koneputugodage/" target="_blank">Chamin Hewa Koneputugodage</a><br>
         Session 1: Introduction to Reinforcement Learning <br>
       <button class="button button4"><a href="https://drive.google.com/file/d/1MDwjv90k5YBnpFUo77exuQHUqcOgY8Wo/view?usp=sharing">Slides</a></button>
-      <button class="button button4"><a href="">Video</a></button>
+      <button class="button button4"><a href="https://drive.google.com/file/d/1LsyAvWvutl7BpHbZGlxJieHhvpQGug8A/view?usp=sharing">Video</a></button>
     </div>
    </div>
    
