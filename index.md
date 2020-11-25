@@ -112,13 +112,13 @@ In this tutorial we will cover the general setup and basic ideas of reinforcemen
    
    <div class="col-sm-4">
     <a href="https://1jsingh.github.io/" target="_blank">
-      <img class="people-pic" src="Jaskirat.jpg">
+      <img class="people-pic" src="https://raw.githubusercontent.com/anucvml/cvrg/master/assets/Jaskirat.jpg">
     </a>
     <div class="people-name text-center">
       <a href="https://1jsingh.github.io/" target="_blank">Jaskirat Singh</a><br>
       Session 2: Introduction to Reinforcement Learning<br>
-      <button class="button button4"><a href="">Slides</a></button>
-      <button class="button button4"><a href="">Video</a></button>
+      <button class="button button4"><a href="https://drive.google.com/file/d/1VO-GEMUwHSkCt_VT-07z0lUbKdpW7nZD/view?usp=sharing">Slides</a></button>
+      <button class="button button4"><a href="https://drive.google.com/file/d/1yyTQFf8MWW-oNChd0yAuibMJ2VmxL93H/view?usp=sharing">Video</a></button>
     </div>
   </div>
 </div>
